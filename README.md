@@ -1,2 +1,2 @@
 # guitar-tuner
-Js guitar tuner 
+Javascript Guitar Tuner based on Web audio API.
